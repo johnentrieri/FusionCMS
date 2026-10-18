@@ -41,7 +41,7 @@ $config['block_duration'] = 15;
  * get site key @ www.google.com/recaptcha/admin
  *
  */
-$config["recaptcha_site_key"] = "";
+$config["recaptcha_site_key"] = false;
 
 /**
  *
@@ -49,7 +49,7 @@ $config["recaptcha_site_key"] = "";
  * get secret key @ www.google.com/recaptcha/admin
  *
  */
-$config["recaptcha_secret_key"] = "";
+$config["recaptcha_secret_key"] = false;
 
 // Theme
 $config['recaptcha_theme'] = 'dark'; // dark - light

@@ -43,7 +43,7 @@ $lang = array_merge($lang, [
 
     # Banner 1
     'banner01_text01' => 'Welcome to %s',
-    'banner01_text02' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    'banner01_text02' => 'The greatest private WoW server on the planet!',
 
     # Banner 2
     'banner02_text01' => 'Learn how',

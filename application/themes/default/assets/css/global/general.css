@@ -19,7 +19,7 @@
 	--font-family-secondary: 'Arial', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 	/* Colors */
-	--color-primary: #4f4b42;
+	--color-primary: #8f856e;
 	--color-secondary: #716a5e;
 	--color-tertiary: #695b3b;
 
@@ -32,8 +32,8 @@
 	--glassmorphism-background-color: rgba(255, 255, 255, 0.1);
 
 	/* Links */
-	--link-primary-idle: #3e3c37;
-	--link-primary-active: #53514c;
+	--link-primary-idle: #a99b78;
+	--link-primary-active: rgb(73, 71, 66);
 
 	--link-secondary-idle: #839093;
 	--link-secondary-active: #c6d2d4;

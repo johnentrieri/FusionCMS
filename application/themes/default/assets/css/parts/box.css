@@ -2,12 +2,12 @@
 /* Box
 /*-------------------------------------------------------------------------*/
 .box {
-	--box-color-01: #5a5449;
-	--box-color-02: #736d62;
-	--box-color-03: #42403c;
-	--box-color-04: #33312d;
-	--box-color-05: #4c4943;
-	--box-color-06: #211f1c;
+	--box-color-01: #97886d;
+	--box-color-02: #948569;
+	--box-color-03: #9e8a63;
+	--box-color-04: #a59f92;
+	--box-color-05: #757168;
+	--box-color-06: #5c5852;
 
 	--box-shadow: inset 0 0 0 1px rgba(255, 255, 190, 0.01), 0 0 5px 0 rgba(0, 0, 0, 0.21), 0 1px 1px 0 rgba(0, 0, 0, 0.25);
 
