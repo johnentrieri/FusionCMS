@@ -1,0 +1,17 @@
+services:
+  fusioncms-web:
+    container_name: fusioncms-web
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8082:80"
+    volumes:
+      - .:/var/www/html
+    networks:
+      - acore_stack_net
+    restart: unless-stopped
+networks:
+  acore_stack_net:
+    external: true
+    name: azerothcore-wotlk_ac-network 
